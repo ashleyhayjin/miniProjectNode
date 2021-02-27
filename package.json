@@ -1,0 +1,23 @@
+{
+  "name": "miniProjectNode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damiandeleon/miniProjectNode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damiandeleon/miniProjectNode/issues"
+  },
+  "homepage": "https://github.com/damiandeleon/miniProjectNode#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
